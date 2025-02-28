@@ -12,3 +12,4 @@
 - ショート生成
 - スキャンで盤面再現
 - 棋士DB (api, ui, sync)
+- uiをtailwind uiでリプレイス
