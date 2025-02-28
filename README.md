@@ -13,3 +13,4 @@
 - スキャンで盤面再現
 - 棋士DB (api, ui, sync, infra)
 - uiをtailwind uiでリプレイス
+- ec2は実行時のみ起動してコスト減
