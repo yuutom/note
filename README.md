@@ -11,5 +11,5 @@
 - インフラ自動化
 - ショート生成
 - スキャンで盤面再現
-- 棋士DB (api, ui, sync)
+- 棋士DB (api, ui, sync, infra)
 - uiをtailwind uiでリプレイス
