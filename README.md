@@ -14,3 +14,4 @@
 - 棋士DB (api, ui, sync, infra)
 - uiをtailwind uiでリプレイス
 - ec2は実行時のみ起動してコスト減
+- ui nwをs3直配置からcloudflare
