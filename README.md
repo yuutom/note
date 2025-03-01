@@ -15,3 +15,4 @@
 - uiをtailwind uiでリプレイス
 - ec2は実行時のみ起動してコスト減
 - ui nwをs3直配置からcloudflare
+- チャットで詰将棋配信
