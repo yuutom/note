@@ -17,3 +17,4 @@
 - ui nwをs3直配置からcloudflare
 - チャットで詰将棋配信
 - 戦況分析
+- line notify eol対応
