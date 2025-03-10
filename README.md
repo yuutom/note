@@ -20,3 +20,4 @@
 - line notify eol対応
 - スコア採点（モバイル）
 - 局面から問題分析
+- terraformでコード化
