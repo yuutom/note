@@ -21,4 +21,3 @@
 - スコア採点（モバイル）
 - 局面から問題分析
 - terraformでコード化
-- test message
