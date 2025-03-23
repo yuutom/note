@@ -23,3 +23,4 @@
 - terraformでコード化
 - チャットで検索 (llm)
 - 加算, 乗算モデル
+- https://yutaroogawa.github.io/pytorch_tutorials_jp/
